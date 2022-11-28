@@ -72,6 +72,7 @@ header {
 }
 
 .circle-joystick {
+    position: flex;
     height: 100px;
     width: 100px;
     background-color: rgb(177, 176, 176);
@@ -79,6 +80,26 @@ header {
     margin-top: 30px;
     margin-left: 20px;
     border: 5px solid rgb(77, 76, 76);    
+}
+
+.joystick-up {
+
+}
+
+.joystick-right {
+    
+}
+
+.joystick-left {
+    
+}
+
+.joystick-bottom {
+    
+}
+
+.joystick-center {
+    
 }
 
 .circle-buttons {
